@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lifegame", "Lifegame\Lifegame.csproj", "{0C8700CB-5167-46A8-B420-A19C28F338A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{AC3D964D-C923-451A-969F-66266E91087F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lifegame.UnitTests", "Lifegame.UnitTests\Lifegame.UnitTests.csproj", "{A86DD07A-75A8-4E22-BA18-F9F90F3EFCE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C8700CB-5167-46A8-B420-A19C28F338A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8700CB-5167-46A8-B420-A19C28F338A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8700CB-5167-46A8-B420-A19C28F338A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8700CB-5167-46A8-B420-A19C28F338A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A86DD07A-75A8-4E22-BA18-F9F90F3EFCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86DD07A-75A8-4E22-BA18-F9F90F3EFCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86DD07A-75A8-4E22-BA18-F9F90F3EFCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86DD07A-75A8-4E22-BA18-F9F90F3EFCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A86DD07A-75A8-4E22-BA18-F9F90F3EFCE6} = {AC3D964D-C923-451A-969F-66266E91087F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11DBE3E4-6A3E-4337-8FD8-3A3655EEEAE8}
+	EndGlobalSection
+EndGlobal
