@@ -6,7 +6,11 @@ namespace Lifegame
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var filed = FieldCreator.CreateField(5);
+
+
+            filed.PrintToConsole();
+            Console.ReadKey();
         }
     }
 }
