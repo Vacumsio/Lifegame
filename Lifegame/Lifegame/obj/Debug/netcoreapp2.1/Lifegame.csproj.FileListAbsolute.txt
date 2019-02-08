@@ -1,0 +1,11 @@
+E:\GIT_projects\lifegame\Lifegame\Lifegame\bin\Debug\netcoreapp2.1\Lifegame.deps.json
+E:\GIT_projects\lifegame\Lifegame\Lifegame\bin\Debug\netcoreapp2.1\Lifegame.runtimeconfig.json
+E:\GIT_projects\lifegame\Lifegame\Lifegame\bin\Debug\netcoreapp2.1\Lifegame.runtimeconfig.dev.json
+E:\GIT_projects\lifegame\Lifegame\Lifegame\bin\Debug\netcoreapp2.1\Lifegame.dll
+E:\GIT_projects\lifegame\Lifegame\Lifegame\bin\Debug\netcoreapp2.1\Lifegame.pdb
+E:\GIT_projects\lifegame\Lifegame\Lifegame\obj\Debug\netcoreapp2.1\Lifegame.csprojAssemblyReference.cache
+E:\GIT_projects\lifegame\Lifegame\Lifegame\obj\Debug\netcoreapp2.1\Lifegame.csproj.CoreCompileInputs.cache
+E:\GIT_projects\lifegame\Lifegame\Lifegame\obj\Debug\netcoreapp2.1\Lifegame.AssemblyInfoInputs.cache
+E:\GIT_projects\lifegame\Lifegame\Lifegame\obj\Debug\netcoreapp2.1\Lifegame.AssemblyInfo.cs
+E:\GIT_projects\lifegame\Lifegame\Lifegame\obj\Debug\netcoreapp2.1\Lifegame.dll
+E:\GIT_projects\lifegame\Lifegame\Lifegame\obj\Debug\netcoreapp2.1\Lifegame.pdb
