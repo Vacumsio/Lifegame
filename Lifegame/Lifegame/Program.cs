@@ -6,10 +6,11 @@ namespace Lifegame
     {
         static void Main(string[] args)
         {
-            var filed = FieldCreator.CreateField(5);
-
-
+            var filed = FieldCreator.CreateField(25);
             filed.PrintToConsole();
+            var newlife = LifeGameEngine.GetNextGeneration(filed);
+            newlife.PrintToConsole();
+
             Console.ReadKey();
         }
     }

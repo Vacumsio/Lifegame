@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2041
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lifegame", "Lifegame\Lifegame.csproj", "{0C8700CB-5167-46A8-B420-A19C28F338A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lifegame", "Lifegame\Lifegame.csproj", "{0C8700CB-5167-46A8-B420-A19C28F338A0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{AC3D964D-C923-451A-969F-66266E91087F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lifegame.UnitTests", "Lifegame.UnitTests\Lifegame.UnitTests.csproj", "{A86DD07A-75A8-4E22-BA18-F9F90F3EFCE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lifegame.UnitTests", "Lifegame.UnitTests\Lifegame.UnitTests.csproj", "{A86DD07A-75A8-4E22-BA18-F9F90F3EFCE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

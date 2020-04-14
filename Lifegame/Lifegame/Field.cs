@@ -12,7 +12,8 @@ namespace Lifegame
         public int Rows { get { return _rows;} }
 
         public int Cols { get { return _cols;} }
-
+        
+        public bool[][] Filed { get { return _filed; } }
         public Field(int rows, int cols)
         {
             _rows = rows;

@@ -9,3 +9,4 @@ E:\GIT_projects\lifegame\Lifegame\Lifegame\obj\Debug\netcoreapp2.1\Lifegame.Asse
 E:\GIT_projects\lifegame\Lifegame\Lifegame\obj\Debug\netcoreapp2.1\Lifegame.AssemblyInfo.cs
 E:\GIT_projects\lifegame\Lifegame\Lifegame\obj\Debug\netcoreapp2.1\Lifegame.dll
 E:\GIT_projects\lifegame\Lifegame\Lifegame\obj\Debug\netcoreapp2.1\Lifegame.pdb
+E:\GIT_projects\lifegame\Lifegame\Lifegame\obj\Debug\netcoreapp2.1\Lifegame.genruntimeconfig.cache
